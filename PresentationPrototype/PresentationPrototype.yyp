@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "0fdf3ca7-2e3b-4eb7-a6aa-3db627811291",
+            "Value": {
+                "id": "4c04eeb1-4b14-44a2-979b-32d2697eec81",
+                "resourcePath": "objects\\o_RainDrop\\o_RainDrop.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1368c898-5425-4834-842b-c540eba1ce27",
             "Value": {
                 "id": "f0a8db5b-4bff-48ac-81c7-a298aa6a8f9b",
@@ -167,6 +175,14 @@
             }
         },
         {
+            "Key": "2a2b02d1-e894-49cd-a909-97183725e94e",
+            "Value": {
+                "id": "e19cef76-193b-4144-ba2e-ea125029ed9e",
+                "resourcePath": "objects\\o_saveManager\\o_saveManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2ece0b84-c8aa-4a53-93d8-495da2748727",
             "Value": {
                 "id": "e176c3af-9d24-4268-850a-9ae770afb20a",
@@ -188,6 +204,14 @@
                 "id": "49b7cd1e-0bce-4ff8-96d0-5d16ac0d860c",
                 "resourcePath": "sounds\\Get_Rune\\Get_Rune.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "40336257-b418-428f-ad7b-2d1621ffcdf3",
+            "Value": {
+                "id": "827a91dd-4f24-4fe4-89b4-5ba69af0ed54",
+                "resourcePath": "objects\\o_Weather_Manager\\o_Weather_Manager.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -311,6 +335,14 @@
             }
         },
         {
+            "Key": "627ccef1-c1b2-4c80-8369-5fa89b4cfd27",
+            "Value": {
+                "id": "38fe3970-6562-412d-8878-a7836ae825d1",
+                "resourcePath": "sprites\\s_RainDrop\\s_RainDrop.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "67c5282e-c44f-4cca-b44c-7e8e10f882dc",
             "Value": {
                 "id": "dc8b92b6-b62d-47e7-be78-25f33d1b96f4",
@@ -335,10 +367,26 @@
             }
         },
         {
+            "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
+            "Value": {
+                "id": "ea1db9f6-8bc9-4d52-944b-ab934b667c0d",
+                "resourcePath": "options\\html5\\options_html5.yy",
+                "resourceType": "GMHtml5Options"
+            }
+        },
+        {
             "Key": "77974080-b2be-42b4-9af6-a6cc3a95e6be",
             "Value": {
                 "id": "96a3ca8d-5cc2-409a-9693-778a3db41fe1",
                 "resourcePath": "objects\\R_RuneE\\R_RuneE.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7cbb50da-165c-4c3a-bd59-fd6ac4f13a57",
+            "Value": {
+                "id": "6bc453b6-fd56-434c-ad20-f8e66a1b3e14",
+                "resourcePath": "objects\\o_RainFXSpawner\\o_RainFXSpawner.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -447,6 +495,14 @@
             }
         },
         {
+            "Key": "cea14b78-218b-43f2-b117-b4fd493feb49",
+            "Value": {
+                "id": "ffe7d7b7-8439-4ee3-a108-94c03c5425bf",
+                "resourcePath": "scripts\\sc_RuneActivate\\sc_RuneActivate.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "d0b8ef55-84d7-4766-8114-554d34dde7c9",
             "Value": {
                 "id": "3dc2db0a-08b6-4871-85fc-2d303bbee2e9",
@@ -533,11 +589,28 @@
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
             }
+        },
+        {
+            "Key": "f489d714-70d1-4626-9ae8-0fcc32e92cc7",
+            "Value": {
+                "id": "5221014a-68a3-4334-9d0c-a05465bbdeae",
+                "resourcePath": "sounds\\RainLoFi\\RainLoFi.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "f85f4677-af62-4546-ba03-df16659acbf3",
+            "Value": {
+                "id": "cd5e81fb-4c27-4927-874f-dcc7ffd34202",
+                "resourcePath": "sprites\\s_DarkenLayer\\s_DarkenLayer.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
         "1ce8ea1e-33ec-4d41-b36b-5eb70f683057",
-        "da989ab2-f32e-40a8-93d7-5c3258fb6058"
+        "da989ab2-f32e-40a8-93d7-5c3258fb6058",
+        "cea14b78-218b-43f2-b117-b4fd493feb49"
     ],
     "tutorial": ""
 }
