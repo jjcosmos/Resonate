@@ -19,11 +19,12 @@ if(!is_activated){
 	}
 	solid = false;
 	is_activated = true;
-	is_playing = true;
+	is_playing = false;
 	audio_play_sound(Get_Rune, 11, false);
 	audio_sound_gain(Get_Rune, .1, 0);
 	instance_create_layer(x,y,"FX", o_MusicFX);
-	o_Weather_Manager.w_intensity += rune_wOffset;
+	//o_Weather_Manager.w_intensity += rune_wOffset;
 	ds_list_add(o_saveManager.runtimeRuneArray, object_get_name(object_index));
 	//show_message("BAD STUFF");
+
 }
