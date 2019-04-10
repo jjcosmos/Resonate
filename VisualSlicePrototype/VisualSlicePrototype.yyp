@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "2fb392ca-f730-49fe-8e0b-a08cd3ec5e42",
+            "Value": {
+                "id": "0c00d076-c423-456e-b209-c1d997c7f690",
+                "resourcePath": "objects\\o_lever\\o_lever.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "32462855-41dd-4f3d-ba23-b4a38f3f40b5",
             "Value": {
                 "id": "dab23591-a692-4970-b1b5-1567c5d1f2fa",
@@ -340,6 +348,14 @@
                 "id": "8bb9d06f-eefd-4789-a3d4-cc48d37912c0",
                 "resourcePath": "sprites\\quarterTilesTemplate\\quarterTilesTemplate.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4ab3bc8b-6f97-458d-8bd6-582f8622c599",
+            "Value": {
+                "id": "fff07199-23b1-4109-b48a-507fe8323ffa",
+                "resourcePath": "objects\\o_pillar\\o_pillar.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -663,6 +679,14 @@
             }
         },
         {
+            "Key": "a5830bbf-ce8e-4b44-ad2e-cf0e461f8c91",
+            "Value": {
+                "id": "6fae8ab5-5155-4505-9bba-69b8ca0a2585",
+                "resourcePath": "sprites\\s_lever\\s_lever.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a6020ef0-9b2f-4ed0-8ede-3ad049924b6d",
             "Value": {
                 "id": "5fe98318-86e2-4c79-96ac-b54c003508b6",
@@ -748,6 +772,14 @@
                 "id": "1e5c708b-9e07-444d-a13b-3efe521493c6",
                 "resourcePath": "tilesets\\tileset2\\tileset2.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "c046195c-2a05-4fde-b1a5-b5fffa5266a1",
+            "Value": {
+                "id": "2c14063d-69b4-4f55-aadc-c50770d8be1e",
+                "resourcePath": "scripts\\sc_trigger_door\\sc_trigger_door.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -943,6 +975,14 @@
             }
         },
         {
+            "Key": "fce05c68-5e38-4840-a60b-121c84b896c2",
+            "Value": {
+                "id": "da4d7e64-30c6-44f7-ade8-9b0b152483b5",
+                "resourcePath": "sprites\\s_pillar\\s_pillar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "fdc1542f-42a7-480a-b97f-b59dc11365f0",
             "Value": {
                 "id": "222abcf7-a2b7-4061-b45f-843dff2bd921",
@@ -954,7 +994,8 @@
     "script_order": [
         "1ce8ea1e-33ec-4d41-b36b-5eb70f683057",
         "da989ab2-f32e-40a8-93d7-5c3258fb6058",
-        "cea14b78-218b-43f2-b117-b4fd493feb49"
+        "cea14b78-218b-43f2-b117-b4fd493feb49",
+        "c046195c-2a05-4fde-b1a5-b5fffa5266a1"
     ],
     "tutorial": ""
 }
