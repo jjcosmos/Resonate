@@ -802,7 +802,7 @@
             "Key": "c04adec4-794e-41b8-9e6e-df3d141290d1",
             "Value": {
                 "id": "53bb1f54-224b-4b1d-b107-b544aa95bee7",
-                "resourcePath": "objects\\o_test\\o_test.yy",
+                "resourcePath": "objects\\o_triggerable\\o_triggerable.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -852,6 +852,14 @@
                 "id": "c969d9a5-430e-4000-89dc-c1063178c95e",
                 "resourcePath": "objects\\o_Collider\\o_Collider.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d5257307-4dd9-4695-893b-d686e7a0c677",
+            "Value": {
+                "id": "f9b28d6f-9e5b-4f49-b253-2e4870c9b621",
+                "resourcePath": "sprites\\s_triggerable\\s_triggerable.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
