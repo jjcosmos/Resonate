@@ -26,5 +26,7 @@ if(!is_activated){
 	//o_Weather_Manager.w_intensity += rune_wOffset;
 	ds_list_add(o_saveManager.runtimeRuneArray, object_get_name(object_index));
 	//show_message("BAD STUFF");
+	
+	o_UI_header.init = true;
 
 }
