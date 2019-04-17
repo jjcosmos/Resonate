@@ -1,14 +1,14 @@
 {
-    "id": "4ab3bc8b-6f97-458d-8bd6-582f8622c599",
+    "id": "282a3df4-c9fb-47c1-a542-fdaf771c96b2",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_pillar",
+    "name": "o_LeverRocks",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "c04adec4-794e-41b8-9e6e-df3d141290d1",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "fce05c68-5e38-4840-a60b-121c84b896c2",
+    "spriteId": "61ee02be-356d-41ed-82fd-f4e926bfb05c",
     "visible": true
 }

@@ -1,8 +1,8 @@
 {
-    "id": "4ab3bc8b-6f97-458d-8bd6-582f8622c599",
+    "id": "80093bb1-39bd-473c-81e1-b8ffd533cbe8",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_pillar",
+    "name": "o_gate",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "fce05c68-5e38-4840-a60b-121c84b896c2",
+    "spriteId": "459ed262-05ff-493e-9406-ceba43d96239",
     "visible": true
 }

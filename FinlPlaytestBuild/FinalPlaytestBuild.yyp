@@ -223,6 +223,22 @@
             }
         },
         {
+            "Key": "282a3df4-c9fb-47c1-a542-fdaf771c96b2",
+            "Value": {
+                "id": "32260ffb-517a-4f0b-9751-dee99278a01f",
+                "resourcePath": "objects\\o_LeverRocks\\o_LeverRocks.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "28a0b4ec-13de-46bb-b9a7-f32c74b8c59a",
+            "Value": {
+                "id": "aa2cc127-1b6d-495b-bca5-9ede9eac6055",
+                "resourcePath": "tilesets\\Bridges\\Bridges.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "28b09d53-7103-4464-a90e-f8f390be9d1d",
             "Value": {
                 "id": "84e6cbcb-a81c-470b-aaf4-2157dda0306d",
@@ -235,6 +251,14 @@
             "Value": {
                 "id": "74227f71-1a0e-423f-8845-1bd80bb13223",
                 "resourcePath": "sprites\\s_treeL\\s_treeL.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "29c23fee-a757-411e-aa73-1e960a55f9db",
+            "Value": {
+                "id": "65b17889-1953-4ea7-b3a4-3da0da5b35b6",
+                "resourcePath": "sprites\\BridgeTileSheet\\BridgeTileSheet.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -364,6 +388,14 @@
                 "id": "64b73bd7-bde2-4443-b829-f083b5a65c0a",
                 "resourcePath": "objects\\o_InventoryManager\\o_InventoryManager.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "459ed262-05ff-493e-9406-ceba43d96239",
+            "Value": {
+                "id": "fd22d9de-21af-443e-bf89-1b186dbf9c20",
+                "resourcePath": "sprites\\s_gate\\s_gate.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -551,6 +583,14 @@
             }
         },
         {
+            "Key": "61ee02be-356d-41ed-82fd-f4e926bfb05c",
+            "Value": {
+                "id": "989f3d14-f789-47c6-9bc7-ab9dbe25cf87",
+                "resourcePath": "sprites\\s_rock\\s_rock.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "627ccef1-c1b2-4c80-8369-5fa89b4cfd27",
             "Value": {
                 "id": "38fe3970-6562-412d-8878-a7836ae825d1",
@@ -652,6 +692,14 @@
                 "id": "621b4c00-ba1e-44b5-8c9a-2966e64ea030",
                 "resourcePath": "sprites\\COLLIDER\\COLLIDER.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "80093bb1-39bd-473c-81e1-b8ffd533cbe8",
+            "Value": {
+                "id": "85b06c1b-fa32-471b-8a4c-c62d3b4327b5",
+                "resourcePath": "objects\\o_gate\\o_gate.yy",
+                "resourceType": "GMObject"
             }
         },
         {
