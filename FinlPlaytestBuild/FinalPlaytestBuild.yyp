@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "0dfb9b7a-647a-4b6a-96be-9641027dcb40",
+            "Value": {
+                "id": "abace0d2-e0fa-4a06-9346-65f424f1b58e",
+                "resourcePath": "objects\\o_V_Bridge_3\\o_V_Bridge_3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0fdf3ca7-2e3b-4eb7-a6aa-3db627811291",
             "Value": {
                 "id": "4c04eeb1-4b14-44a2-979b-32d2697eec81",
@@ -220,6 +228,14 @@
                 "id": "76e63093-1575-4a4e-8bc2-9b9eed8bd444",
                 "resourcePath": "objects\\O_RuneAll\\O_RuneAll.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "24e4fa73-e785-47f9-a1a1-09a09a61cd57",
+            "Value": {
+                "id": "ef0d3b6f-8ac8-46b7-abcc-9ec0c18012d6",
+                "resourcePath": "sprites\\s_H_Bridge\\s_H_Bridge.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -583,6 +599,14 @@
             }
         },
         {
+            "Key": "6091139d-3639-4e44-b58c-59bda298822a",
+            "Value": {
+                "id": "49e97657-7886-49d6-8ac0-98b9b44a714d",
+                "resourcePath": "sprites\\s_V_Bridge_4\\s_V_Bridge_4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "61ee02be-356d-41ed-82fd-f4e926bfb05c",
             "Value": {
                 "id": "989f3d14-f789-47c6-9bc7-ab9dbe25cf87",
@@ -663,6 +687,14 @@
             }
         },
         {
+            "Key": "7c5eb9dc-27d6-4112-9779-eb06a12ce374",
+            "Value": {
+                "id": "5788b34d-5be2-4b42-86d0-c5226e993cdb",
+                "resourcePath": "sprites\\s_V_Bridge_3\\s_V_Bridge_3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7c74effc-a349-4887-b4d8-0d6d03ddef26",
             "Value": {
                 "id": "83151168-2f3d-42d5-b9a5-67465cbdea83",
@@ -738,7 +770,7 @@
             "Key": "87dcfed2-4de6-4486-a34e-6861cdf439ab",
             "Value": {
                 "id": "e16eafb8-6591-4874-931e-f6363dde9046",
-                "resourcePath": "sprites\\s_bush_small\\s_bush_small.yy",
+                "resourcePath": "sprites\\s_bush01_small\\s_bush01_small.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -756,6 +788,14 @@
                 "id": "b3cd4208-f049-4f8e-899d-ece08255e927",
                 "resourcePath": "rooms\\StartScreen\\StartScreen.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "8b8aac4b-20d9-4b17-abf9-8ea6183af162",
+            "Value": {
+                "id": "a4aba98b-e484-4ef9-be6d-2a19cf0d5abc",
+                "resourcePath": "objects\\o_V_Bridge_4\\o_V_Bridge_4.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -911,6 +951,14 @@
             }
         },
         {
+            "Key": "c106b224-685d-4a8d-a508-2139054cd470",
+            "Value": {
+                "id": "a3d97f8c-5a0a-4d54-8db5-2a1d433745bc",
+                "resourcePath": "objects\\o_H_Bridge\\o_H_Bridge.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc18a3c6-e9ea-4684-b284-a38d00def1cd",
             "Value": {
                 "id": "8c81a3ef-2a63-4bac-8830-9c9e9f0ae852",
@@ -1058,7 +1106,7 @@
             "Key": "f39a8956-05e6-45f1-bc7b-f7363d79b2ae",
             "Value": {
                 "id": "d4d6e37e-32f1-46c8-835f-bda760d12fa3",
-                "resourcePath": "objects\\o_smallbush\\o_smallbush.yy",
+                "resourcePath": "objects\\o_smallbush01\\o_smallbush01.yy",
                 "resourceType": "GMObject"
             }
         },

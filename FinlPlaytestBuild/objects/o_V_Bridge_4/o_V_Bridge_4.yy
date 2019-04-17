@@ -1,19 +1,10 @@
 {
-    "id": "b8d23aad-7008-4248-87f8-2cb491341543",
+    "id": "8b8aac4b-20d9-4b17-abf9-8ea6183af162",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_TreeofLife",
+    "name": "o_V_Bridge_4",
     "eventList": [
-        {
-            "id": "73607bd2-e6ef-48a2-bd27-ed0f8aabad73",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "b8d23aad-7008-4248-87f8-2cb491341543"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "d6fb25fb-8c45-4372-aa16-f201aa74115e",
+    "spriteId": "6091139d-3639-4e44-b58c-59bda298822a",
     "visible": true
 }

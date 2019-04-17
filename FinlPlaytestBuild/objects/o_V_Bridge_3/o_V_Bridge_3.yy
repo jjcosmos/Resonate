@@ -1,16 +1,14 @@
 {
-    "id": "f39a8956-05e6-45f1-bc7b-f7363d79b2ae",
+    "id": "0dfb9b7a-647a-4b6a-96be-9641027dcb40",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_smallbush",
+    "name": "o_V_Bridge_3",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "overriddenProperties": [
-        
-    ],
-    "parentObjectId": "c04adec4-794e-41b8-9e6e-df3d141290d1",
+    "overriddenProperties": null,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -24,10 +22,8 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": [
-        
-    ],
+    "properties": null,
     "solid": false,
-    "spriteId": "87dcfed2-4de6-4486-a34e-6861cdf439ab",
+    "spriteId": "7c5eb9dc-27d6-4112-9779-eb06a12ce374",
     "visible": true
 }
