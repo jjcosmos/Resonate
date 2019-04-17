@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "03f3154b-9f96-4692-8b9a-51731ce0a32e",
+            "Value": {
+                "id": "2a8af996-89b9-4ad5-9068-8e20a1ca0667",
+                "resourcePath": "sprites\\WaterAndPits2\\WaterAndPits2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "03fbdab0-84dd-450a-859a-8d48309da423",
             "Value": {
                 "id": "0cbbaf5b-da63-41ba-adf6-a6a1acdb1d9c",
@@ -724,6 +732,14 @@
                 "id": "9c7579fd-e4c1-405b-a3ab-a006c1d8a53c",
                 "resourcePath": "views\\9e2d3745-28ba-46ff-a37e-94df5b5794b0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9efa1877-ad64-47c3-a309-8c5ee61dfbe5",
+            "Value": {
+                "id": "af9e546c-e46f-487a-98ac-3e62cee9f92f",
+                "resourcePath": "tilesets\\WaterAndPits\\WaterAndPits.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
