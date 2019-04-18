@@ -327,6 +327,14 @@
             }
         },
         {
+            "Key": "35bcc895-780e-4824-aa08-eea733116e68",
+            "Value": {
+                "id": "e1774028-16cf-437e-87cd-339aea78f0a4",
+                "resourcePath": "sprites\\grass\\grass.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "35c766a9-887b-4bed-b3da-7440fa714cda",
             "Value": {
                 "id": "1dfbe9b4-e460-47dc-9899-3c098d10f013",
@@ -660,6 +668,14 @@
                 "id": "e3164289-e1ae-453b-8f9c-babc4218d2e8",
                 "resourcePath": "sounds\\RuneA\\RuneA.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "6ca7da61-84ce-4d11-a993-3e0d72e15ede",
+            "Value": {
+                "id": "e171c270-8265-4ce3-b39b-9b6543697804",
+                "resourcePath": "objects\\o_reactive_grass\\o_reactive_grass.yy",
+                "resourceType": "GMObject"
             }
         },
         {
