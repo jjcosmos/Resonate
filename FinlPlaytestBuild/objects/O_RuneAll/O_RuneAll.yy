@@ -85,6 +85,20 @@
             "value": ".2",
             "varName": "rune_wOffset",
             "varType": 0
+        },
+        {
+            "id": "e85259b2-b039-4ecc-820b-8bc0bc69c91a",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "crystal_toggle_type",
+            "varType": 5
         }
     ],
     "solid": false,

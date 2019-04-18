@@ -7,12 +7,22 @@ if (mouse_check_button_pressed(mb_left)) {
 			is_playing = false;
 			o_Weather_Manager.w_intensity -= rune_wOffset;
 			//show_message("trying");
+			
+			var j;
+			for(j = 0; j < array_length_1d(rune_linked_crystals); j++){
+				instance_activate_object(rune_linked_crystals[j]);
+			}
 		}
 		else if (is_activated){
 			audio_sound_gain(asset_get_index("Rune" + string(name)), 1, 2000);
 			is_playing = true;
 			o_Weather_Manager.w_intensity += rune_wOffset;
 			//show_message("trying");
+			
+			var j;
+			for(j = 0; j < array_length_1d(rune_linked_crystals); j++){
+				instance_deactivate_object(rune_linked_crystals[j]);
+			}
 		}
 	}
 }
@@ -23,4 +33,15 @@ if(is_playing){
 else{
 	image_xscale = .5;
 	image_yscale = .5;
+}
+
+if(!found_list){
+	
+	var i;
+	for (i = 0; i < instance_number(crystal_toggle_type); i += 1)
+	{
+		rune_linked_crystals[i] = instance_find(crystal_toggle_type,i);
+	}
+	
+	found_list = true;
 }
