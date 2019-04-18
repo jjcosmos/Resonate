@@ -8,9 +8,11 @@ if (mouse_check_button_pressed(mb_left)) {
 			o_Weather_Manager.w_intensity -= rune_wOffset;
 			//show_message("trying");
 			
+			if(found_list){
 			var j;
 			for(j = 0; j < array_length_1d(rune_linked_crystals); j++){
 				instance_activate_object(rune_linked_crystals[j]);
+			}
 			}
 		}
 		else if (is_activated){
@@ -19,9 +21,11 @@ if (mouse_check_button_pressed(mb_left)) {
 			o_Weather_Manager.w_intensity += rune_wOffset;
 			//show_message("trying");
 			
+			if(found_list){
 			var j;
 			for(j = 0; j < array_length_1d(rune_linked_crystals); j++){
 				instance_deactivate_object(rune_linked_crystals[j]);
+			}
 			}
 		}
 	}
@@ -35,7 +39,7 @@ else{
 	image_yscale = .5;
 }
 
-if(!found_list){
+if(!found_list and  crystal_toggle_type != 0){
 	
 	var i;
 	for (i = 0; i < instance_number(crystal_toggle_type); i += 1)
