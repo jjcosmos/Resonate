@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "031fda1a-a2ab-46ae-8475-3b18a4013922",
+            "Value": {
+                "id": "8e903101-099c-4605-b58e-be3b80ecb735",
+                "resourcePath": "objects\\o_red_crystals\\o_red_crystals.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "03f3154b-9f96-4692-8b9a-51731ce0a32e",
             "Value": {
                 "id": "2a8af996-89b9-4ad5-9068-8e20a1ca0667",
@@ -100,6 +108,14 @@
                 "id": "13193a56-9896-4f57-aca0-4e650722be0f",
                 "resourcePath": "sprites\\s_RuneE\\s_RuneE.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0a7d74a3-d6e0-4164-82b1-37452f55e7ab",
+            "Value": {
+                "id": "ae7768cb-0faf-4121-90a8-84c8a4fcb907",
+                "resourcePath": "objects\\o_crystals\\o_crystals.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -351,6 +367,14 @@
             }
         },
         {
+            "Key": "338f1584-f2cf-4109-8447-908f4018f9bc",
+            "Value": {
+                "id": "27743ff6-0bdf-416c-bb6a-ade2da0cdeda",
+                "resourcePath": "objects\\o_orange_crystals\\o_orange_crystals.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "35bcc895-780e-4824-aa08-eea733116e68",
             "Value": {
                 "id": "e1774028-16cf-437e-87cd-339aea78f0a4",
@@ -394,7 +418,7 @@
             "Key": "3e0d63d4-b053-4f9d-9937-80ce2317fa9b",
             "Value": {
                 "id": "ad974acd-dce4-4cdd-a8fa-8649d427d4e4",
-                "resourcePath": "objects\\o_crystals\\o_crystals.yy",
+                "resourcePath": "objects\\o_blue_crystals\\o_blue_crystals.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -684,6 +708,14 @@
                 "id": "38fe3970-6562-412d-8878-a7836ae825d1",
                 "resourcePath": "sprites\\s_RainDrop\\s_RainDrop.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "63537e00-a4fc-47ca-ad94-064b11ba8f75",
+            "Value": {
+                "id": "49f90f28-9dab-43b7-ae49-b8398ad46c18",
+                "resourcePath": "objects\\o_plantbridge3\\o_plantbridge3.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1068,6 +1100,22 @@
                 "id": "a3d97f8c-5a0a-4d54-8db5-2a1d433745bc",
                 "resourcePath": "objects\\o_H_Bridge\\o_H_Bridge.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c33c1247-9b7f-4632-a1c7-44c220c5ade5",
+            "Value": {
+                "id": "fe1add98-e871-490c-9def-e6e7dd178a54",
+                "resourcePath": "objects\\o_purple_crystals\\o_purple_crystals.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c90d4d01-0ba9-4217-aa53-645fb9ede2e1",
+            "Value": {
+                "id": "98756fa4-8562-4738-bb9f-0f1f1c4f4d73",
+                "resourcePath": "sprites\\s_plantbridge3\\s_plantbridge3.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

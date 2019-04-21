@@ -1,8 +1,8 @@
 {
-    "id": "0a7d74a3-d6e0-4164-82b1-37452f55e7ab",
+    "id": "3e0d63d4-b053-4f9d-9937-80ce2317fa9b",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_crystals",
+    "name": "o_blue_crystals",
     "eventList": [
         
     ],

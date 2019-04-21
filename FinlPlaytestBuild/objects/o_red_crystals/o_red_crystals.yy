@@ -1,8 +1,8 @@
 {
-    "id": "0a7d74a3-d6e0-4164-82b1-37452f55e7ab",
+    "id": "031fda1a-a2ab-46ae-8475-3b18a4013922",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_crystals",
+    "name": "o_red_crystals",
     "eventList": [
         
     ],

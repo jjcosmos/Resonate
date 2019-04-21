@@ -1,14 +1,14 @@
 {
-    "id": "0a7d74a3-d6e0-4164-82b1-37452f55e7ab",
+    "id": "63537e00-a4fc-47ca-ad94-064b11ba8f75",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_crystals",
+    "name": "o_plantbridge3",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "c04adec4-794e-41b8-9e6e-df3d141290d1",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "372afdfd-4feb-431f-9ef1-e91ac7d01ea3",
+    "spriteId": "c90d4d01-0ba9-4217-aa53-645fb9ede2e1",
     "visible": true
 }
