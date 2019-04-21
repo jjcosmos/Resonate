@@ -79,6 +79,20 @@
             "value": ".1",
             "varName": "w_intensity_threshold",
             "varType": 0
+        },
+        {
+            "id": "1b3c8433-f346-4b3b-ba5e-6cb34dea5c5c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "w_intensity_start",
+            "varType": 0
         }
     ],
     "solid": false,

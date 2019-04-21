@@ -1,11 +1,12 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(o_Weather_Manager.w_intensity > w_intensity_threshold){
+if(o_Weather_Manager.w_intensity > w_intensity_threshold xor o_Weather_Manager.w_intensity < w_intensity_start){
 	fading = true;
 }
-else if(o_Weather_Manager.w_intensity <= w_intensity_threshold){
+else if(o_Weather_Manager.w_intensity < w_intensity_threshold){
 	fading = false;
 }
+
 
 if(fading){
 	if(image_alpha > 0)
