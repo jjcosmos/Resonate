@@ -15,3 +15,7 @@ ticker += 1;
 if(ticker > 10000){
 ticker = 0;
 }
+
+if(!place_meeting(x,y,o_Player)){
+	canPlay = true;
+}

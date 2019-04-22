@@ -5,3 +5,5 @@ image_index = 0;
 frame = 0;
 
 ticker = 0;
+
+canPlay = true;

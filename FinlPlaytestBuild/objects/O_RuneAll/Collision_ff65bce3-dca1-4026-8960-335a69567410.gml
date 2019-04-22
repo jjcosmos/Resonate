@@ -3,7 +3,7 @@ if(!is_activated){
 	name = object_get_name(object_index);
 	name = string_char_at(name,7);
 
-	audio_sound_gain(asset_get_index("Rune" + string(name)), 1, 2000);
+	audio_sound_gain(asset_get_index("Rune" + string(name)), 0, 2000);
 	//show_message("Rune" + string(name));
 
 	// put code here for GUI integration

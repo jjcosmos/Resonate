@@ -12,12 +12,14 @@ if(!colliding){
 			triggered = !triggered;
 		
 			sc_trigger_door(obj_turn_on, !triggered);
+			audio_play_sound(Lever, 13, false);
 		}
 	
 		else{
 			sc_trigger_door(linked_doors, !triggered);
 			colliding = true;
 			triggered = !triggered;
+			audio_play_sound(Lever, 13, false);
 		}
 	
 }

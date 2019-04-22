@@ -4,6 +4,9 @@ sc_image_state();
 sc_get_input();
 //try_move();
 
+if(!place_meeting(x,y, o_FogZone)){
+	o_fog_controller.fogAlphaTarget = .1;
+}
 
 if(!place_meeting(x + move_x,y, o_Collider) and !place_meeting(x + move_x,y, o_triggerable)){
 	x = x+ move_x;	
