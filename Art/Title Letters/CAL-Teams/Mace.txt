@@ -1,0 +1,55 @@
+Golem-Alola (M) @ Choice Scarf  
+Ability: Magnet Pull  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Wild Charge  
+- Earthquake  
+- Fire Punch  
+- Explosion  
+
+Honchkrow (M) @ Life Orb  
+Ability: Moxie  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Brave Bird  
+- Sucker Punch  
+- Pursuit  
+- Superpower  
+
+Kingdra (F) @ Choice Specs  
+Ability: Swift Swim  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Draco Meteor  
+- Ice Beam  
+
+Infernape (M) @ Fightinium Z  
+Ability: Blaze  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Fire Blast  
+- Focus Blast  
+- Vacuum Wave  
+
+Mawile (F) @ Mawilite  
+Ability: Intimidate  
+EVs: 92 HP / 252 Atk / 164 Spe  
+Adamant Nature  
+- Swords Dance  
+- Play Rough  
+- Sucker Punch  
+- Knock Off  
+
+Scolipede (M) @ Expert Belt  
+Ability: Speed Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Megahorn  
+- Earthquake  
+- Aqua Tail  
+- Swords Dance  
+

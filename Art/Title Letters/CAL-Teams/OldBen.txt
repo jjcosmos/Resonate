@@ -1,0 +1,56 @@
+Charizard (M) @ Charizardite X  
+Ability: Blaze  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Dragon Dance  
+- Flare Blitz  
+- Earthquake  
+- Roost  
+
+Greninja (M) @ Waterium Z  
+Ability: Protean  
+Shiny: Yes  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Hydro Pump  
+- Gunk Shot  
+- Hidden Power [Fire]  
+- Spikes  
+
+Hawlucha (M) @ Electric Seed  
+Ability: Unburden  
+EVs: 96 HP / 252 Atk / 36 SpD / 124 Spe  
+Adamant Nature  
+- Acrobatics  
+- Swords Dance  
+- High Jump Kick  
+- Roost  
+
+Raichu-Alola (F) @ Focus Sash  
+Ability: Surge Surfer  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Fake Out  
+- Thunderbolt  
+- Psychic  
+- Electric Terrain  
+
+Noctowl (M) @ Wacan Berry  
+Ability: Tinted Lens  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Agility  
+- Work Up  
+- Hurricane  
+- Roost  
+
+Doublade (M) @ Eviolite  
+Ability: No Guard  
+EVs: 240 HP / 252 Atk / 16 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Swords Dance  
+- Gyro Ball  
+- Shadow Claw  
+- Shadow Sneak  
+

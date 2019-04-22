@@ -1,0 +1,54 @@
+Machamp (M) @ Flame Orb  
+Ability: Guts  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Close Combat  
+- Knock Off  
+- Facade  
+- Bullet Punch  
+
+Mamoswine (M) @ Metronome  
+Ability: Thick Fat  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Ice Shard  
+- Icicle Crash  
+- Stealth Rock  
+
+Incineroar (M) @ Incinium Z  
+Ability: Intimidate  
+EVs: 252 HP / 196 Atk / 60 SpD  
+Adamant Nature  
+- Fake Out  
+- Flare Blitz  
+- Darkest Lariat  
+- Low Kick  
+
+Tyranitar (M) @ Tyranitarite  
+Ability: Sand Stream  
+EVs: 168 HP / 252 Atk / 88 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Pursuit  
+- Stone Edge  
+- Fire Punch  
+
+Tangrowth (M) @ Assault Vest  
+Ability: Regenerator  
+EVs: 248 HP / 8 Def / 252 SpD  
+Sassy Nature  
+- Giga Drain  
+- Knock Off  
+- Hidden Power [Ice]  
+- Earthquake  
+
+Weezing (M) @ Rocky Helmet  
+Ability: Levitate  
+EVs: 252 HP / 152 Def / 88 SpD / 16 Spe  
+Bold Nature  
+- Sludge Bomb  
+- Will-O-Wisp  
+- Pain Split  
+- Toxic Spikes  
+

@@ -1,0 +1,55 @@
+Blaziken (M) @ Blazikenite  
+Ability: Speed Boost  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Flare Blitz  
+- Low Kick  
+- Stone Edge  
+
+Alakazam (M) @ Life Orb  
+Ability: Magic Guard  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 1 Atk  
+- Psychic  
+- Focus Blast  
+- Hidden Power [Fire]  
+- Recover  
+
+Crobat (M) @ Black Sludge  
+Ability: Infiltrator  
+EVs: 252 HP / 64 Def / 192 Spe  
+Jolly Nature  
+- Defog  
+- Roost  
+- Brave Bird  
+- U-turn  
+
+Steelix (M) @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 76 Atk / 180 SpD  
+Careful Nature  
+- Stealth Rock  
+- Heavy Slam  
+- Earthquake  
+- Toxic  
+
+Golisopod (M) @ Choice Band  
+Ability: Emergency Exit  
+EVs: 168 HP / 252 Atk / 88 Spe  
+Adamant Nature  
+- First Impression  
+- Liquidation  
+- Leech Life  
+- Aqua Jet  
+
+Dragonite (M) @ Flyinium Z  
+Ability: Multiscale  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Fly  
+- Earthquake  
+- Extreme Speed  
+
