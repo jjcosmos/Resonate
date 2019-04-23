@@ -1,5 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
+audio_listener_position(x,y,0);
+
 sc_image_state();
 sc_get_input();
 //try_move();

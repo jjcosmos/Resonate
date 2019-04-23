@@ -1087,6 +1087,14 @@
             }
         },
         {
+            "Key": "89091a81-9b94-42e7-9ee0-f485ce63bdd6",
+            "Value": {
+                "id": "62fae368-3184-4da8-9fad-07150016395e",
+                "resourcePath": "sounds\\thunder\\thunder.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "8979fd8a-43fc-4477-87f2-b77bd6ebed24",
             "Value": {
                 "id": "3169919f-6e7a-44f6-9f9e-9acc2a2b4b87",
@@ -1132,6 +1140,14 @@
                 "id": "fad27a8e-0f6c-4031-bef9-58d22203e701",
                 "resourcePath": "objects\\o_S\\o_S.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "98f1ec77-dc30-49fd-920d-2adcb8113b9d",
+            "Value": {
+                "id": "79e32e81-6d71-4285-af2a-68336910ac94",
+                "resourcePath": "sounds\\frog\\frog.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1535,11 +1551,27 @@
             }
         },
         {
+            "Key": "dd525590-b0c2-4ee8-bf94-3270c7b0c5db",
+            "Value": {
+                "id": "a659c046-d639-4e4c-ac17-8c328702cc79",
+                "resourcePath": "objects\\o_frog\\o_frog.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e0bb8530-0c38-42c2-91e3-20124c0404ce",
             "Value": {
                 "id": "35480560-71d2-4959-a5e6-342ffbee6300",
                 "resourcePath": "tilesets\\tileset0\\tileset0.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "e45920bd-18fe-468e-a8de-36bc40b733b8",
+            "Value": {
+                "id": "9e8603b4-69fc-4cae-b97b-cc6f46f8af37",
+                "resourcePath": "sprites\\s_frog\\s_frog.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

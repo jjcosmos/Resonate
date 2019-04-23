@@ -14,6 +14,8 @@ if (mouse_check_button_pressed(mb_left)) {
 				instance_activate_object(rune_linked_crystals[j]);
 			}
 			}
+			audio_play_sound(thunder,17,false);
+			audio_sound_gain(thunder, .1,0);
 		}
 		else if (is_activated){
 			audio_sound_gain(asset_get_index("Rune" + string(name)), 1, 2000);
@@ -27,6 +29,8 @@ if (mouse_check_button_pressed(mb_left)) {
 				instance_deactivate_object(rune_linked_crystals[j]);
 			}
 			}
+			audio_play_sound(thunder,17,false);
+			audio_sound_gain(thunder, .1,0);
 		}
 	}
 }
