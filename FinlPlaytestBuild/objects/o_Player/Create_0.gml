@@ -7,3 +7,6 @@ move_x = 0;
 move_y = 0;
 movespeed = 1;
 hit_playing = false;
+
+globalvar usingDebug;
+usingDebug = false;

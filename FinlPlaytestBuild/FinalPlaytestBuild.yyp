@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "16026d2a-92be-4e37-9f1f-70871ec41487",
+            "Value": {
+                "id": "53cc0362-0063-47f6-88de-d0c25217be38",
+                "resourcePath": "objects\\o_debug_teleport_point\\o_debug_teleport_point.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "17904d57-5687-4b98-bb9e-5af9560409cd",
             "Value": {
                 "id": "dd878816-e324-4d41-94ec-145d5743138f",
