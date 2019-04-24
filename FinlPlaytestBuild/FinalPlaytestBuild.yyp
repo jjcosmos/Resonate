@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "00b20bcd-639b-42b5-8230-cdb767357a7f",
+            "Value": {
+                "id": "ab8b5d1a-8d71-449a-bc03-d383478c19e8",
+                "resourcePath": "sounds\\frog_chrorus_piano\\frog_chrorus_piano.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "0176d4c4-39ff-413d-8dde-795f58dc7015",
             "Value": {
                 "id": "05c353af-4d58-4402-a4ab-6bdf780e14cf",
@@ -127,6 +135,14 @@
             }
         },
         {
+            "Key": "0bf01dd8-b425-4b21-8903-3fdb5e76f4bd",
+            "Value": {
+                "id": "994a48b2-d99a-4501-999e-023769b5182a",
+                "resourcePath": "sprites\\s_light\\s_light.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0bf3dd3c-b251-4321-86f0-78c380ace29c",
             "Value": {
                 "id": "a95326d6-a4b8-4f22-be56-ae7c6e24663c",
@@ -195,6 +211,14 @@
             "Value": {
                 "id": "815dedab-80e2-45a1-86a9-ef4f81a69125",
                 "resourcePath": "objects\\o_MuseInit\\o_MuseInit.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1a15bfa4-dc69-48d5-9608-79b5b1cb79d2",
+            "Value": {
+                "id": "a5eef63b-3b69-41e1-b46c-aed4b6fb89e0",
+                "resourcePath": "objects\\o_frog_chorus_controller\\o_frog_chorus_controller.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -815,6 +839,14 @@
             }
         },
         {
+            "Key": "601a8bbe-bee0-46a3-aa73-ad48ffc573a8",
+            "Value": {
+                "id": "569d2fee-f07d-4ffd-9453-0cf7cca2f37d",
+                "resourcePath": "sounds\\heavy_thunder\\heavy_thunder.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "6091139d-3639-4e44-b58c-59bda298822a",
             "Value": {
                 "id": "49e97657-7886-49d6-8ac0-98b9b44a714d",
@@ -836,6 +868,14 @@
                 "id": "38fe3970-6562-412d-8878-a7836ae825d1",
                 "resourcePath": "sprites\\s_RainDrop\\s_RainDrop.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6284de81-9bec-4610-bf67-a362b0a010c5",
+            "Value": {
+                "id": "c48ce252-ae0c-4e69-9a1a-5959ec5d5d4b",
+                "resourcePath": "sounds\\Final_Bassline\\Final_Bassline.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1172,6 +1212,14 @@
                 "id": "af9e546c-e46f-487a-98ac-3e62cee9f92f",
                 "resourcePath": "tilesets\\WaterAndPits\\WaterAndPits.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "a0414d71-cf78-48e8-b037-d8c51ecf2718",
+            "Value": {
+                "id": "0aefedea-3885-47a2-821c-8a3aa60881fd",
+                "resourcePath": "objects\\o_chorus_frog\\o_chorus_frog.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1692,6 +1740,14 @@
                 "id": "edfe060f-5b5d-4018-b815-bcf803b02c9d",
                 "resourcePath": "sprites\\s_R\\s_R.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f6c5df5b-69ba-4884-8604-293e5c59c9f1",
+            "Value": {
+                "id": "3a6d08f0-5757-4c02-9e65-af0c6e00b889",
+                "resourcePath": "objects\\o_final_bass_controller\\o_final_bass_controller.yy",
+                "resourceType": "GMObject"
             }
         },
         {
